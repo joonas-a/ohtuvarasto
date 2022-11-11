@@ -44,4 +44,4 @@ class Varasto:
     def __str__(self):
         return f"saldo = {self.saldo}, vielä tilaa {self.paljonko_mahtuu()}"
 
-# merge-konflikti
+# merge-konfliktimerge-konfliktimerge-konfliktimerge-konfliktimerge-konfliktimerge-konfliktimerge-konfliktimerge-konfliktimerge-konfliktimerge-konflikti
